@@ -1,7 +1,7 @@
 # 📊 Project Title Here
 
 ## 🧠 About this project
-This project was developed as part of my Data Analysis training program using Python and R. It focuses on solving a real-world problem using data processing, analysis, and visualization techniques.
+This project documents everything I'm learning in a 6-month Data Analysis program focused on Python, R, SQL, data processing, visualization, and Machine Learning fundamentals.
 
 ## 🎯 Objective
 Briefly explain what this project is about:
