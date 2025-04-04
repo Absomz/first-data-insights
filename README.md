@@ -7,6 +7,16 @@ Welcome to my personal GitHub repository created to document, organize, and demo
 
 ---
 
+## 📑 Table of Contents
+
+- [🗂️ Folder Structure Blueprint](#️-folder-structure-blueprint)
+- [📁 Repository Structure Overview](#-repository-structure-overview)
+- [🧾 Available Documentation Templates](#-available-documentation-templates)
+- [🔄 Version Control and Documentation Practice](#-version-control-and-documentation-practice)
+- [🎯 Personal Statement](#-personal-statement)
+
+---
+
 ## 🗂️ Folder Structure Blueprint
 
 ```
@@ -140,8 +150,6 @@ To maintain high-quality records of my learning process, this repository include
 | `/reports/module_summaries/` | `module_summary_template.md` | Structured summary of each module including concepts learned and personal reflection |
 | `/reports/project_reports/` | `project_report_template.md` | Full project report with objectives, methodology, results, and conclusions |
 | `/reports/insights/` | `insight_report_template.md` | Quick insight log for documenting patterns, anomalies, or ideas found during analysis |
-
-All templates are designed for easy reuse. Each one helps develop a strong habit of documenting with purpose and clarity, aligned with my goal of becoming a highly effective Technical AI Product Manager.
 
 ---
 
