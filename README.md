@@ -2,6 +2,9 @@
 
 Welcome to my personal GitHub repository created to document, organize, and demonstrate everything I will learn and build during my 6-month intensive Data Analysis program using Python and R. This repository is structured with clarity and purpose to reflect professional standards for project documentation, development, and reproducibility.
 
+**Author:** Abner Soberón  
+**Professional Goal:** To build a solid and well-documented portfolio as part of my long-term preparation to become a Technical AI Product Manager, with strong foundations in data science, artificial intelligence, and product thinking.
+
 ---
 
 ## 🗂️ Folder Structure Blueprint
@@ -134,6 +137,10 @@ Every change in this repository is carefully documented using clear and descript
 
 ---
 
-## 🎯 Goal
+## 🎯 Personal Statement
 
-The purpose of this repository is to serve as both a learning archive and a professional portfolio showcasing my path toward becoming a **Technical AI Product Manager**, with a strong foundation in data handling, analysis, and communication of insights.
+🧠 *This repository is part of a structured and disciplined personal learning process, driven by the commitment to build a meaningful technical career rooted in purpose, integrity, and human-centered impact.*
+
+🎓 *It is also a key component of my preparation to apply to top-tier institutions such as MIT and Harvard, where excellence is measured not only in technical skill, but in clarity of leadership, responsibility, and long-term vision.*
+
+📫 Contact: absomz@hotmail.com
