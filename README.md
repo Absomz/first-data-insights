@@ -12,6 +12,7 @@ Welcome to my personal GitHub repository created to document, organize, and demo
 - [🗂️ Folder Structure Blueprint](#️-folder-structure-blueprint)
 - [📁 Repository Structure Overview](#-repository-structure-overview)
 - [🧾 Available Documentation Templates](#-available-documentation-templates)
+- [📌 Project Status](#-project-status)
 - [🔄 Version Control and Documentation Practice](#-version-control-and-documentation-practice)
 - [🎯 Personal Statement](#-personal-statement)
 
@@ -143,13 +144,20 @@ Sandbox for experimenting with new project ideas or working on assignments.
 
 ## 🧾 Available Documentation Templates
 
-To maintain high-quality records of my learning process, this repository includes the following markdown templates for consistent and professional documentation:
-
 | 📁 Location | 📄 Template | Purpose |
 |------------|-------------|---------|
 | `/reports/module_summaries/` | `module_summary_template.md` | Structured summary of each module including concepts learned and personal reflection |
 | `/reports/project_reports/` | `project_report_template.md` | Full project report with objectives, methodology, results, and conclusions |
 | `/reports/insights/` | `insight_report_template.md` | Quick insight log for documenting patterns, anomalies, or ideas found during analysis |
+
+---
+
+## 📌 Project Status
+
+> **Status:** Actively maintained and evolving alongside a 6-month Data Analysis program.  
+> **Last update:** April 3, 2025
+
+This repository is updated continuously as I progress through each module of the course. All content, notebooks, and reports are documented with professional structure and are subject to refinement and iteration over time.
 
 ---
 
