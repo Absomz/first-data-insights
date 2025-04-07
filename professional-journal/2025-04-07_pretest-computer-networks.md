@@ -8,10 +8,11 @@ Topic: Reflection on Computer Networks Pretest
 **Date:** April 7, 2025  
 **Student:** Abner Soberon Martinez  
 
-Today, I completed a pretest on computer networks as part of my preparation for the upcoming data science and network training program. Out of all the questions, I only missed two — and ironically, **both were cases where I had originally considered the correct answer but second-guessed myself.**
+Today, I completed a pretest on computer networks as part of my high school curriculum, in parallel to my independent preparation for a future data science program. While the pretest is not directly connected to my upcoming data science training, it contributes meaningfully to my foundational understanding of networks. Out of all the questions, I only missed two — and ironically, both were cases where I had originally considered the correct answer but second-guessed myself.
 
-- On the **network topology** question, I initially thought it might be a *hybrid*, but selected *tree* because it matched the textbook definition. The system, however, accepted *hybrid* as correct.  
-- On the **network authentication via certification** question, I leaned toward *security services*, but changed to *directory services* based on logic and deeper understanding. Again, the system was expecting *security services* as the answer.
+On the network topology question, I initially thought it might be a hybrid, but selected tree because it matched the textbook definition. The system, however, accepted hybrid as correct.
+
+On the network authentication via certification question, I initially considered security services based on logic, but then changed my answer to directory services after reading the provided material. Ironically, the system accepted security services — which matched my original instinct — as the correct answer.
 
 These small missteps were not due to lack of knowledge, but rather to overthinking and lack of confidence in my initial intuition.
 
