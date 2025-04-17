@@ -57,6 +57,7 @@ Welcome to my personal GitHub repository created to document, organize, and demo
 │   ├── sql/
 │   ├── ml/
 │   └── general/
+│   ├── git/
 │
 ├── 📓 professional-journal/
 │   ├── professional_journal_template.md
@@ -71,8 +72,8 @@ Welcome to my personal GitHub repository created to document, organize, and demo
 └── 💡 project-drafts/
     ├── ideas/
     └── experiments/
-```
 
+```
 
 ## 📁 Repository Structure Overview
 
@@ -139,9 +140,9 @@ Curated learning material and external documentation.
 - `sql/` - SQL language documentation, optimization tips, relational theory.
 - `ml/` - Machine learning theory, algorithm explanations, research papers.
 - `general/` - General data science or analysis resources not specific to one tool/language.
+- `git/` - Git installation guides, credential setup, usage with GitHub, and other version control best practices.
 
 ---
-
 
 ### 📓 `professional-journal/`
 Daily and weekly journal entries tracking technical progress, problem-solving, and personal growth throughout the program.
@@ -156,6 +157,7 @@ Daily and weekly journal entries tracking technical progress, problem-solving, a
 - `Requirements_Analysis_Study_Journal.pdf` – Journal-style insight report on requirement analysis
 - `Requirements_Gathering_and_Analysis_Notebook.md` – Markdown notebook version of lesson reflection
 
+---
 
 ### 💡 `project-drafts/`
 Sandbox for experimenting with new project ideas or working on assignments.
