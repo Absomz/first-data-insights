@@ -142,6 +142,13 @@ Curated learning material and external documentation.
 - `general/` - General data science or analysis resources not specific to one tool/language.
 - `git/` - Git installation guides, credential setup, usage with GitHub, and other version control best practices.
 
+### 📄 Git Documentation
+
+Located in `references/git/`:
+
+- [Git_Installation_Guide_Windows.pdf](references/git/Git_Installation_Guide_Windows.pdf): Step-by-step guide to installing and configuring Git on Windows with best practice settings.
+- [Git_User_Config_Guide.pdf](references/git/Git_User_Config_Guide.pdf): Guide to setting up user identity and default editor in Git, including how to verify and update your configuration.
+  
 ---
 
 ### 📓 `professional-journal/`
