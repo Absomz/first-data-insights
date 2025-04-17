@@ -58,12 +58,21 @@ Welcome to my personal GitHub repository created to document, organize, and demo
 │   ├── ml/
 │   └── general/
 │
+├── 📓 professional-journal/
+│   ├── professional_journal_template.md
+│   ├── 2025-04-07_pretest-computer-networks.md
+│   ├── 2025-04-16_problem_solving_log.md
+│   ├── MMORPG_Development_Strategy_Abner_Soberon.pdf
+│   ├── Social_Network_Development_Strategy_Abner_Soberon.pdf
+│   ├── Requirements Gathering and Analysis.pdf
+│   ├── Requirements_Analysis_Study_Journal.pdf
+│   └── Requirements_Gathering_and_Analysis_Notebook.md
+│
 └── 💡 project-drafts/
     ├── ideas/
     └── experiments/
 ```
 
----
 
 ## 📁 Repository Structure Overview
 
@@ -132,6 +141,21 @@ Curated learning material and external documentation.
 - `general/` - General data science or analysis resources not specific to one tool/language.
 
 ---
+
+
+### 📓 `professional-journal/`
+Daily and weekly journal entries tracking technical progress, problem-solving, and personal growth throughout the program.
+
+#### Files:
+- `professional_journal_template.md` – Reusable journal entry template
+- `2025-04-07_pretest-computer-networks.md` – Pretest reflection log for networking fundamentals
+- `2025-04-16_problem_solving_log.md` – Deductive reasoning and logic challenge analysis
+- `MMORPG_Development_Strategy_Abner_Soberon.pdf` – Project-level methodology strategy
+- `Social_Network_Development_Strategy_Abner_Soberon.pdf` – Technical planning document
+- `Requirements Gathering and Analysis.pdf` – Structured PDF summary of requirement engineering
+- `Requirements_Analysis_Study_Journal.pdf` – Journal-style insight report on requirement analysis
+- `Requirements_Gathering_and_Analysis_Notebook.md` – Markdown notebook version of lesson reflection
+
 
 ### 💡 `project-drafts/`
 Sandbox for experimenting with new project ideas or working on assignments.
