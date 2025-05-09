@@ -1,10 +1,10 @@
 # 🧠 Technical-Personal Journal  
 **Course:** Probability and Statistics for Data Analysis  
 **Institution:** Skilling Center TecMilenio  
-**Session Date:** 2025-05-08  
-**Week:** 2  
-**Class:** 3 of 6  
-**Topic:** Machine Learning, Probability & Statistics  
+**Start Date:** 2025-04-28  
+**Documented Session:** 2025-05-08  
+**Week:** 2
+**Topic:** Machine Learning, Probability & Statistics 
 
 ---
 
