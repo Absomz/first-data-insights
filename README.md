@@ -175,15 +175,15 @@ Sandbox for experimenting with new project ideas or working on assignments.
 
 ---
 
-## 🏆 Certificados obtenidos
+## 🏆 Earned Certificates
 
-Este repositorio también documenta formalmente los logros obtenidos durante el programa, como constancias o diplomas entregados por la institución.
+This repository also includes official certificates awarded for completed academic modules.
 
-📄 Certificados disponibles:
+📄 Available:
 
-- [✅ Certificado del Módulo de Inducción – 2025-05-13](professional-journal/certificates/2025-05-13_Induction_Certificate_Probability_and_Statistics_for_Data_Science_Abner_Soberon.pdf)
+- [2025-05-13 – Induction Certificate: Probability and Statistics for Data Science](professional-journal/certificates/2025-05-13_Induction_Certificate_Probability_and_Statistics_for_Data_Science_Abner_Soberon.pdf)
 
-🗂 Carpeta: `/professional-journal/certificates/`
+📁 Location: `professional-journal/certificates/`
 
 ---
 
