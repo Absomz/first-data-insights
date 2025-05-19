@@ -3,8 +3,8 @@
 **Institution:** Skilling Center TecMilenio  
 **Start Date:** 2025-04-28  
 **Documented Session:** 2025-05-08  
-**Week:** 2
-**Topic:** Machine Learning, Probability & Statistics 
+**Week:** 2  
+**Topic:** Machine Learning, Probability & Statistics  
 
 ---
 
