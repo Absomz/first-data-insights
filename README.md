@@ -219,3 +219,14 @@ Every change in this repository is carefully documented using clear and descript
 🎓 *It is also a key component of my preparation to apply to top-tier institutions such as MIT and Harvard, where excellence is measured not only in technical skill, but in clarity of leadership, responsibility, and long-term vision.*
 
 📫 Contact: absomz@hotmail.com
+
+---
+
+## 👤 About the Author
+
+My name is Abner Soberón. I am a self-taught student rebuilding my academic path with discipline, integrity, and purpose.
+
+This repository is part of a long-term strategy to gain admission to MIT or Harvard and become a technical AI Product Manager or Machine Learning Engineer.  
+Everything you see here reflects real, documented academic growth — no shortcuts, no automation.
+
+I'm committed to mastering the foundations of data science, statistics, and AI, while maintaining balance with family, values, and personal excellence.
