@@ -181,7 +181,7 @@ This repository also includes official certificates awarded for completed academ
 
 📄 Available:
 
-- [2025-05-13 – Induction Certificate: Probability and Statistics for Data Science](professional-journal/certificates/2025-05-13_Induction_Certificate_Probability_and_Statistics_for_Data_Science_Abner_Soberon.pdf)
+- [2025-05 – Induction Certificate: Probability and Statistics for Data Science](professional-journal/certificates/2025-05_Induction_Certificate_Probability_and_Statistics_for_Data_Science_Abner_Soberon.pdf)
 
 📁 Location: `professional-journal/certificates/`
 
