@@ -1,9 +1,9 @@
 # 🧠 Technical-Personal Journal  
 **Course:** Probability and Statistics for Data Analysis  
-**Institution:** Skilling Center TecMilenio
+**Institution:** Skilling Center TecMilenio  
 **Start Date:** 2025-04-28  
-**Session Date:** 2025-05-06
-**Week:** 2
+**Documented Session:** 2025-05-06  
+**Week:** 2  
 **Topic:** Statistical Foundations  
 
 ---
