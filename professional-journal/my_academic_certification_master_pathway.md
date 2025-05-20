@@ -106,11 +106,13 @@ These certifications will empower me to:
 
 ### 🔹 Advanced Technical Certifications
 
-- ☁️ [AWS Certified Big Data – Specialty](https://www.itcareerfinder.com/it-certifications/aws.html)  
+- ☁️ [AWS Certified Data Engineer – Associate](https://aws.amazon.com/certification/certified-data-engineer-associate/?ch=sec&sec=rmg&d=1)  
+- 🤖 [AWS Certified Machine Learning – Associate](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/?ch=sec&sec=rmg&d=1)  
+- 🧠 [AWS Certified Machine Learning – Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/)  
 - 📊 [Google Data Analytics Certificate](https://www.itcareerfinder.com/it-certifications/google-career-certifications/data-analytics-certificate.html)  
 - 🧪 [IBM Data Science Professional Certificate](https://www.itcareerfinder.com/it-certifications/ibm-professional-certificates/data-science-certificate.html)
 
-These credentials validate my ability to handle large-scale data systems, integrate ML models, and ensure high-performance analytics pipelines.
+These credentials validate my ability to handle large-scale data systems, design end-to-end pipelines, and build robust, production-ready machine learning models deployed in cloud environments.
 
 ---
 
@@ -147,7 +149,9 @@ I fully understand that **each program and certification will involve rigorous e
 | Cert | Google Project Management Certificate | [Link](https://www.itcareerfinder.com/it-certifications/google-career-certifications/project-management-certificate.html) |
 | Cert | CompTIA Project+ | [Link](https://www.itcareerfinder.com/it-certifications/comptia-certifications/project-plus-certification.html) |
 | Cert | ITIL Master Certification | [Link](https://www.itcareerfinder.com/it-certifications/itil.html) |
-| Cert | AWS Big Data – Specialty | [Link](https://www.itcareerfinder.com/it-certifications/aws.html) |
+| Cert | AWS Certified Data Engineer – Associate | [Link](https://aws.amazon.com/certification/certified-data-engineer-associate/?ch=sec&sec=rmg&d=1) |
+| Cert | AWS Certified Machine Learning – Associate | [Link](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/?ch=sec&sec=rmg&d=1) |
+| Cert | AWS Certified Machine Learning – Specialty | [Link](https://aws.amazon.com/certification/certified-machine-learning-specialty/) |
 | Cert | IBM Data Science Certificate | [Link](https://www.itcareerfinder.com/it-certifications/ibm-professional-certificates/data-science-certificate.html) |
 
 ---
