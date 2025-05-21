@@ -151,18 +151,38 @@ Located in `references/git/`:
   
 ---
 
-### 📓 `professional-journal/`
-Daily and weekly journal entries tracking technical progress, problem-solving, and personal growth throughout the program.
+📓 professional-journal/
 
-#### Files:
-- `professional_journal_template.md` – Reusable journal entry template
-- `2025-04-07_pretest-computer-networks.md` – Pretest reflection log for networking fundamentals
-- `2025-04-16_problem_solving_log.md` – Deductive reasoning and logic challenge analysis
-- `MMORPG_Development_Strategy_Abner_Soberon.pdf` – Project-level methodology strategy
-- `Social_Network_Development_Strategy_Abner_Soberon.pdf` – Technical planning document
-- `Requirements Gathering and Analysis.pdf` – Structured PDF summary of requirement engineering
-- `Requirements_Analysis_Study_Journal.pdf` – Journal-style insight report on requirement analysis
-- `Requirements_Gathering_and_Analysis_Notebook.md` – Markdown notebook version of lesson reflection
+A structured and evolving academic journal covering every session of the Data Analysis Bootcamp at TecMilenio. Each entry captures technical learning, hands-on activities, personal insights, and verified milestones, forming a traceable academic portfolio.
+
+### ✅ Documented Classes
+
+| Class # | Date       | Module                  | Session Topic                                  |
+|---------|------------|-------------------------|------------------------------------------------|
+| 1       | 2025-04-29 | Induction               | Course Presentation and Orientation            |
+| 2       | 2025-05-02 | Induction               | Descriptive Statistics                         |
+| 3       | 2025-05-06 | Induction               | Probability, Machine Learning & Stats          |
+| 4       | 2025-05-13 | Induction               | Module Integration & Kaggle Project            |
+| 5       | 2025-05-20 | Introduction to Databases | SQL Fundamentals and DBMS Introduction         |
+
+> All sessions are documented using the `professional_journal_template.md` format and follow a consistent structure for readability and traceability.
+
+---
+
+### 📁 Additional Documents
+
+| File Name                                               | Description                                                           |
+|----------------------------------------------------------|-----------------------------------------------------------------------|
+| `professional_journal_template.md`                       | Reusable markdown template for session documentation                  |
+| `2025-04-07_pretest-computer-networks.md`                | Pre-course technical reflection on networking concepts                |
+| `2025-04-16_problem_solving_log.md`                      | Deductive reasoning and logic-based technical challenge analysis      |
+| `MMORPG_Development_Strategy_Abner_Soberon.pdf`          | High-level methodology for large-scale system planning                |
+| `Social_Network_Development_Strategy_Abner_Soberon.pdf`  | Structured design plan for a social platform architecture             |
+| `Requirements Gathering and Analysis.pdf`                | Clean PDF summary on system requirements engineering                  |
+| `Requirements_Analysis_Study_Journal.pdf`                | Journal-style review and critique of the requirements phase           |
+| `Requirements_Gathering_and_Analysis_Notebook.md`        | Markdown notebook version of the lesson reflection on system analysis |
+
+🗂 All documents comply with repository formatting standards and contribute to building a publicly traceable, academically rigorous archive of this journey.
 
 ---
 
