@@ -197,12 +197,21 @@ This repository also includes official certificates awarded for completed academ
 
 ---
 
-## 📌 Project Status
+📌 Project Status
 
-> **Status:** Actively maintained and evolving alongside a 6-month Data Analysis program.  
-> **Last update:** April 3, 2025
+    Status: Actively maintained with full technical documentation and milestone tracking.
+    Current Phase: Week 4 – Introduction to Databases module.
+    Last updated: May 20, 2025
 
-This repository is updated continuously as I progress through each module of the course. All content, notebooks, and reports are documented with professional structure and are subject to refinement and iteration over time.
+This repository is being updated consistently as I progress through each session of the Data Analysis Bootcamp at TecMilenio.
+
+So far, 5 full-length classes have been documented with professional structure, including:
+- The entire Induction Module (4 sessions + official certificate)
+- The launch of the Introduction to Databases module
+- Technical exercises in SQL, MySQL Workbench, and DBMS concepts
+- Verified journal entries, checkpoints, and a public academic trace
+
+All journal entries meet portfolio standards and are aligned with my long-term goal of building an elite-level academic and technical foundation.
 
 ---
 
