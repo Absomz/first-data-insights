@@ -195,15 +195,22 @@ Sandbox for experimenting with new project ideas or working on assignments.
 
 ---
 
-## 🏆 Earned Certificates
+## 🏅 Certificates
 
-This repository also includes official certificates awarded for completed academic modules.
+All earned certificates are stored in the `/professional-journal/certificates/` folder. These documents represent formal recognition of completed modules or training phases and serve as academic proof of progression in the Data Analysis Bootcamp.
 
-📄 Available:
+Each certificate is named using a standardized format:
+`YYYY-MM_Module_Certificate_Title_Abner_Soberon.pdf`
 
-- [2025-05 – Induction Certificate: Probability and Statistics for Data Science](professional-journal/certificates/2025-05_Induction_Certificate_Probability_and_Statistics_for_Data_Science_Abner_Soberon.pdf)
+---
 
-📁 Location: `professional-journal/certificates/`
+### ✅ Currently Documented
+
+| Date     | Module            | Title                                      | File Name                                                                 |
+|----------|-------------------|--------------------------------------------|---------------------------------------------------------------------------|
+| 2025-05  | Induction Module  | Probability and Statistics for Data Science| `certificates/2025-05_Induction_Certificate_Probability_and_Statistics_for_Data_Science_Abner_Soberon.pdf` |
+
+🎓 More certificates will be added as I progress through each module of the bootcamp. Each file is verified, formatted for consistency, and stored for portfolio and institutional review.
 
 ---
 
