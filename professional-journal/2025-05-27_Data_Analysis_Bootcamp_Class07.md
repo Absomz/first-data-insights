@@ -1,5 +1,5 @@
 # 🧾 Professional Journal Entry  
-**Course:** Probability and Statistics for Data Analysis  
+**Course:** Introduction to Databases
 **Institution:** Skilling Center TecMilenio  
 **Start Date:** 2025-04-28  
 **Documented Session:** 2025-05-27  
