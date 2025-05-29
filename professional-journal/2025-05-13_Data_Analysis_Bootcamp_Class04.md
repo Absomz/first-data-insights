@@ -1,10 +1,11 @@
 # 🧠 Technical-Personal Journal  
-**Course:** Probability and Statistics for Data Analysis  
-**Institution:** Skilling Center TecMilenio  
-**Start Date:** 2025-04-28  
-**Documented Session:** 2025-05-13  
-**Week:** 3  
-**Topic:** Final Session – Induction Module Integration  
+Course: Probability and Statistics for Data Analysis  
+Institution: Skilling Center TecMilenio  
+Start Date: 2025-04-28  
+Documented Session: 2025-05-13  
+Week: 3  
+Class: 4 of 4 (Induction Module)  
+Topic: Final Session – Induction Module Integration
 
 ---
 
