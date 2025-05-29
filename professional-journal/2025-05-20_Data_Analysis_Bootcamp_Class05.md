@@ -1,10 +1,11 @@
 # 🧠 Technical-Personal Journal  
-**Course:** Introduction to Databases  
-**Institution:** Skilling Center TecMilenio  
-**Start Date:** 2025-04-29  
-**Documented Session:** 2025-05-20  
-**Week:** 4  
-**Topic:** SQL Fundamentals and DBMS Introduction
+Course: Introduction to Databases  
+Institution: Skilling Center TecMilenio  
+Start Date: 2025-04-29  
+Documented Session: 2025-05-20  
+Week: 4  
+Class: 1 of 10 (Databases Module)  
+Topic: SQL Fundamentals and DBMS Introduction
 
 ---
 
