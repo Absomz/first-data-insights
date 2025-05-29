@@ -4,8 +4,8 @@ Institution: Skilling Center TecMilenio
 Start Date: 2025-04-28  
 Documented Session: 2025-05-06  
 Week: 2  
-Topic: Statistical Foundations  
-**Class:** 2 of 4 (Induction Module) 
+Class: 2 of 4 (Induction Module)  
+Topic: Statistical Foundations
 
 ---
 
