@@ -1,12 +1,12 @@
 # 🧠 Technical-Personal Journal
 
-**Course:** Introduction to Databases
-**Institution:** Skilling Center TecMilenio
-**Start Date:** 2025-04-29
-**Documented Session:** 2025-05-27
-**Week:** 6
-**Class:** 3 of 10 (Databases Module)
-**Topic:** SQL Joins and Views – Relational Data Modeling in Practice
+Course: Introduction to Databases  
+Institution: Skilling Center TecMilenio  
+Start Date: 2025-04-29  
+Documented Session: 2025-05-27  
+Week: 6  
+Class: 3 of 10 (Databases Module)  
+Topic: SQL Joins and Views – Relational Data Modeling in Practice
 
 ---
 
