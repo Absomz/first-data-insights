@@ -1,10 +1,11 @@
 # 🧠 Technical-Personal Journal  
-**Course:** Introduction to Databases  
-**Institution:** Skilling Center TecMilenio  
-**Start Date:** 2025-04-29  
-**Documented Session:** 2025-05-23  
-**Week:** 5  
-**Topic:** SQL Grouping, Aggregation, Pattern Matching and Subqueries
+Course: Introduction to Databases  
+Institution: Skilling Center TecMilenio  
+Start Date: 2025-04-29  
+Documented Session: 2025-05-23  
+Week: 5  
+Class: 2 of 10 (Databases Module)  
+Topic: SQL Grouping, Aggregation, Pattern Matching and Subqueries
 
 ---
 
