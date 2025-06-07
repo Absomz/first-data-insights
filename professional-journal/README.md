@@ -1,95 +1,108 @@
-# 📓 Professional Journal – Data Analysis Bootcamp  
-**Skilling Center TecMilenio**
+# 📓 Professional Journal
 
-This folder contains a structured, session-by-session journal of my academic and technical development throughout the Data Analysis Bootcamp. Each entry documents not only the class content, but also personal reflections, detailed breakdowns, tools used, code practice, and critical takeaways.
-
-The purpose is to build a transparent, traceable record of my growth in core data-related competencies—including statistics, databases, machine learning foundations, and professional workflow habits. This journal is part of my broader preparation for admission into top-tier institutions such as MIT or Harvard.
-
----
-
-## 🔗 Quick Navigation
-
-| Class # | Date       | Module                    | Topic Description                             | File Name                                                              |
-|---------|------------|---------------------------|-----------------------------------------------|------------------------------------------------------------------------|
-| 1       | 2025-04-29 | 🎓 Induction Module        | Bootcamp Introduction & Prework Overview      | `2025-04-29_Data_Analysis_Bootcamp_Class01.md`                         |
-| 2       | 2025-05-02 | 📊 Statistics Foundations  | Descriptive Statistics and Applications       | `2025-05-02_Data_Analysis_Bootcamp_Class02.md`                         |
-| 3       | 2025-05-06 | 📈 Machine Learning & Stats| Supervised Learning, Probabilities, Use Cases | `2025-05-06_Data_Analysis_Bootcamp_Class03.md`                         |
-| 4       | 2025-05-13 | 🧠 Final Integration        | Closing of Induction Module                   | `2025-05-13_Data_Analysis_Bootcamp_Class04.md`                         |
-| 5       | 2025-05-20 | 🗃️ Intro to Databases       | SQL Fundamentals, DBMS, and Practical Setup   | `2025-05-20_Data_Analysis_Bootcamp_Class05.md`                         |
-
----
-
-## 🗓️ Agenda – Introduction to Databases Module
-This module consists of 10 technical sessions focused on database theory, SQL development, modeling, and hands-on data manipulation using MySQL Workbench.
-
-| Session | Day      | Date       | Status        |
-|---------|----------|------------|---------------|
-| 1       | Tuesday  | 2025-05-20 | ✅ Completed   |
-| 2       | Thursday | 2025-05-22 | ⏳ Upcoming    |
-| 3       | Tuesday  | 2025-05-27 | ⏳ Upcoming    |
-| 4       | Thursday | 2025-05-29 | ⏳ Upcoming    |
-| 5       | Tuesday  | 2025-06-03 | ⏳ Upcoming    |
-| 6       | Thursday | 2025-06-05 | ⏳ Upcoming    |
-| 7       | Tuesday  | 2025-06-10 | ⏳ Upcoming    |
-| 8       | Thursday | 2025-06-12 | ⏳ Upcoming    |
-| 9       | Tuesday  | 2025-06-17 | ⏳ Upcoming    |
-| 10      | Thursday | 2025-06-19 | ⏳ Upcoming    |
-
----
-
-> ⚠️ Each filename follows the format:  
-> `YYYY-MM-DD_Data_Analysis_Bootcamp_ClassXX.md`
-
----
-
-## 📁 Folder Overview
-
-- **`/certificates/`**  
-  Contains scanned or exported certificates of achievement, including module completions and verified credentials.  
-  ✅ Currently includes: Induction module completion (May 2025)
-
-- **`/templates/`**  
-  Contains reusable `.md` templates for new class journals and project reports with standard sections (summary, topics, tools, reflections, checkpoints, etc.).
-
-- **`/references/`**  
-  Reserved for personal summaries of licensed educational content, for internal use only. No copyrighted material is uploaded.
+This directory contains all the technical-personal journal entries for the **Data Analysis Bootcamp** held at *Skilling Center TecMilenio*. Each entry documents an individual class in depth, combining theory, practice, and personal insight.
 
 ---
 
 ## 📘 Documentation Standards
 
-Each `.md` file inside this journal contains:
+Every `.md` file in this folder follows a consistent structure using the `professional_journal_template.md`. Each journal entry includes:
 
-- Course metadata (title, institution, date, topic)
-- Full breakdown of session objectives and topics
-- Hands-on activities and tools used
-- Reflections on learning and reasoning process
-- Checklists of accomplished milestones
-- Reference links and academic traceability
+* 🧠 **Metadata Block**: Course, institution, documented session, week, class, and topic.
+* ✳️ **Class Summary**: A comprehensive breakdown of the key learnings and flow of the session.
+* 🔶 **Core Concepts Covered**: Definitions, use cases, diagrams, comparisons.
+* 🧪 **Tools and Exercises**: All platforms, files, scripts, and practical work done.
+* 🧭 **Reflections and Takeaways**: Strategic insights and learning consolidation.
+* ✅ **Achievements Checklist**: Key tasks and milestones completed.
+* 📎 **Attached Files and References**: Official class material and structured assets.
 
-Markdowns are written with consistency in icons, structure, hierarchy, and language for clean integration into GitHub or export to other formats (PDF, portfolio, academic record).
+All documents prioritize clarity, structure, and professional-level delivery.
 
 ---
 
-## 🧠 Author’s Note
+## 🗓️ Agenda
 
-I am a non-traditional student building a path toward elite academic and professional goals through focused, self-paced excellence. This repository is a reflection of deep commitment, clarity of vision, and the methodical acquisition of world-class technical knowledge.
+### 🎯 Induction Module – Probability and Statistics for Data Science (4 Classes)
 
-My target is not to meet minimum standards—but to exceed expectations and build evidence of top-tier discipline, problem-solving, and initiative.
+| # | Date       | Class Title                                  |
+| - | ---------- | -------------------------------------------- |
+| 1 | 2025-04-29 | Course Presentation – Induction Module       |
+| 2 | 2025-05-06 | Statistical Foundations                      |
+| 3 | 2025-05-08 | Machine Learning, Probability & Statistics   |
+| 4 | 2025-05-13 | Final Session – Induction Module Integration |
+
+### 🧩 Introduction to Databases Module (10 Classes)
+
+| #  | Date       | Class Title                                                   |
+| -- | ---------- | ------------------------------------------------------------- |
+| 1  | 2025-05-20 | SQL Fundamentals and DBMS Introduction                        |
+| 2  | 2025-05-23 | SQL Grouping, Aggregation, Pattern Matching and Subqueries    |
+| 3  | 2025-05-27 | SQL Joins and Views in MySQL Workbench                        |
+| 4  | 2025-05-29 | Local DB Configuration and ER Modeling                        |
+| 5  | 2025-06-03 | Fundamentals of MongoDB, JSON Importation and CRUD Operations |
+| 6 | 2025-06-05 | Advanced Filtering and JSON Operations in MongoDB              |
+| 7 | TBD        | Aggregation Pipelines and Indexing in MongoDB                  |
+| 8 | TBD        | Relational vs. NoSQL Comparative Exercises                     |
+| 9 | TBD        | Final Project – From Schema to Queries in Practice             |
+| 10 | TBD        | Capstone Review and Applied Integration                       |
+
+---
+
+## 📄 Documented Sessions
+
+### 🎯 Induction Module
+
+| # | Date       | Topic                                        | File Link                                                  |
+| - | ---------- | -------------------------------------------- | ---------------------------------------------------------- |
+| 1 | 2025-04-29 | Course Presentation – Induction Module       | [Class 01](./2025-04-29_Data_Analysis_Bootcamp_Class01.md) |
+| 2 | 2025-05-06 | Statistical Foundations                      | [Class 02](./2025-05-06_Data_Analysis_Bootcamp_Class02.md) |
+| 3 | 2025-05-08 | Machine Learning, Probability & Statistics   | [Class 03](./2025-05-08_Data_Analysis_Bootcamp_Class03.md) |
+| 4 | 2025-05-13 | Final Session – Induction Module Integration | [Class 04](./2025-05-13_Data_Analysis_Bootcamp_Class04.md) |
+
+### 🧩 Introduction to Databases Module
+
+| #  | Date       | Topic                                                         | File Link                                                  |
+| -- | ---------- | ------------------------------------------------------------- | ---------------------------------------------------------- |
+| 5  | 2025-05-20 | SQL Fundamentals and DBMS Introduction                        | [Class 05](./2025-05-20_Data_Analysis_Bootcamp_Class05.md) |
+| 6  | 2025-05-23 | SQL Grouping, Aggregation, Pattern Matching and Subqueries    | [Class 06](./2025-05-23_Data_Analysis_Bootcamp_Class06.md) |
+| 7  | 2025-05-27 | SQL Joins and Views in MySQL Workbench                        | [Class 07](./2025-05-27_Data_Analysis_Bootcamp_Class07.md) |
+| 8  | 2025-05-29 | Local DB Configuration and ER Modeling                        | [Class 08](./2025-05-29_Data_Analysis_Bootcamp_Class08.md) |
+| 9  | 2025-06-03 | Fundamentals of MongoDB, JSON Importation and CRUD Operations | [Class 09](./2025-06-03_Data_Analysis_Bootcamp_Class09.md) |
+| 10 | 2025-06-05 | Advanced Filtering and JSON Operations in MongoDB             | [Class 10](./2025-06-05_Data_Analysis_Bootcamp_Class10.md) |
+
+---
+
+## 📁 Available Template
+
+To document a new session consistently, use this markdown starter file:
+
+* [`professional_journal_template.md`](./professional_journal_template.md)
 
 ---
 
 ## 🏆 Certifications & Milestones
 
-Certificates are stored in `certificates/` and tracked here:
+* 🎓 **Induction Module Certificate** – Probability and Statistics for Data Science
+  [View Certificate](./certificates/2025-05_Induction_Certificate_Probability_and_Statistics_for_Data_Science_Abner_Soberon.pdf)
 
-| Title                          | Issued By             | Date         | File                                                               |
-|-------------------------------|------------------------|--------------|--------------------------------------------------------------------|
-| Induction Module Completion   | Skilling Center TecMilenio | 2025-05     | `certificates/2025-05_Induction_Certificate_Probability_and_Statistics_for_Data_Science_Abner_Soberon.pdf` |
+Future milestones and certifications will be added as progress continues through the bootcamp and into project phases.
+
+---
+
+## 🧠 Author’s Note
+
+This repository is authored and maintained by **Abner Soberón Martínez**, a self-driven learner and aspiring **AI & Machine Learning Engineer**, preparing a strong academic and technical portfolio toward applying to **MIT** or **Harvard**.
+
+The journal reflects a commitment to intellectual excellence, learning discipline, and technical mastery over time.
 
 ---
 
 ## 🔒 Disclaimer
 
-No institutional content has been uploaded.  
-All exercises referenced (SQL files, ERDs, templates) were used exclusively for in-class execution and are cited textually, without distributing original files.
+All class content, images, and attached materials referenced within each journal entry are the intellectual property of the course instructor or Skilling Center TecMilenio, shared here solely for academic progress tracking. No redistribution is permitted.
+
+---
+
+## ✍️ Last Updated
+
+June 6, 2025
