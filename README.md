@@ -95,6 +95,47 @@ This structure ensures organized review and future referencing of all sessions.
 
 ---
 
+## 🧩 Additional Study & Development Modules
+
+### 🧠 Technical Reflections & Logs
+
+These entries offer snapshots of learning experiences, conceptual reviews, and daily applied thinking.
+
+| File Title                                                                                                          | Description                                                                |
+| ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [Pretest Reflection: Computer Networks](./professional-journal/2025-04-07_pretest-computer-networks.md)             | A technical reflection log on computer networking fundamentals.            |
+| [Problem-Solving Log](./professional-journal/2025-04-16_problem_solving_log.md)                                     | Daily technical problem-solving log with structured cases and resolutions. |
+| [Professional Development Journal](./professional-journal/2025-04-23_Journal_Entry_Planning_Phase_Abner_Soberon.md) | Early reflection on planning skills and professional mindset building.     |
+
+### 📈 Career Planning & Pathways
+
+Curated documents that articulate academic, technical, and professional trajectory toward AI and software development excellence.
+
+| File Title                                                                                       | Description                                                     |
+| ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
+| [ML Engineer Career Pathway](./professional-journal/my_academic_certification_master_pathway.md) | A detailed roadmap toward becoming a Machine Learning Engineer. |
+
+### 🎮 Game and Platform Development Strategies
+
+Strategic documentation for personal long-term projects in tech product development.
+
+| File Title                                                                                                                | Description                                                           |
+| ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| [MMORPG Development Strategy (PDF)](./professional-journal/MMORPG_Development_Strategy_Abner_Soberon.pdf)                 | Strategic notes for long-term MMORPG-style development.               |
+| [Social Network Development Strategy (PDF)](./professional-journal/Social_Network_Development_Strategy_Abner_Soberon.pdf) | Vision and planning document for a secure and ethical social network. |
+
+### 🧾 Requirements Gathering & Analysis
+
+Technical and process-oriented breakdowns for software requirement specification and analysis.
+
+| File Title                                                                                                      | Description                                                                |
+| --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [Requirements Gathering Notebook](./professional-journal/Requirements_Gathering_and_Analysis_Notebook.md)       | Hands-on journal exploring how to gather and structure requirements.       |
+| [Requirements Analysis – Study Journal (PDF)](./professional-journal/Requirements_Analysis_Study_Journal.pdf)   | Academic-level reflection and structure of software requirements analysis. |
+| [Requirements Gathering & Analysis (PDF)](./professional-journal/Requirements%20Gathering%20and%20Analysis.pdf) | Companion piece summarizing key requirements analysis procedures.          |
+
+---
+
 ## 🏆 Certifications & Milestones
 
 * 🎓 **Induction Module Certificate** – Probability and Statistics for Data Science
