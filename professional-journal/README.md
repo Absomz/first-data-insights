@@ -80,9 +80,9 @@ All entries are written in English using academic and technical tone, with Markd
 
 ### 🛠️ Class Projects
 
-| Project Title               | File Link                                             |
-| --------------------------- | ----------------------------------------------------- |
-| TaconMadre Database Project | [TaconMadre Project](../project-taconmadre/README.md) |
+| Project Title               | File Link                                                                 |
+| --------------------------- | -------------------------------------------------------------------------- |
+| TaconMadre Database Project | [TaconMadre Project](https://github.com/Absomz/first-data-insights/tree/main/course-projects/databases/TaconMadre) |
 
 ---
 
