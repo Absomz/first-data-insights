@@ -1,22 +1,24 @@
 # 📓 Professional Journal
 
-This directory contains all the technical-personal journal entries for the **Data Analysis Bootcamp** held at *Skilling Center TecMilenio*. Each entry documents an individual class in depth, combining theory, practice, and personal insight.
+This directory contains all the technical-personal journal entries for the **Data Analysis Bootcamp** held at *Skilling Center TecMilenio*. Each entry thoroughly documents the corresponding class with theory, guided practice, platform interaction, and strategic reflection.
 
 ---
 
 ## 📘 Documentation Standards
 
-Every `.md` file in this folder follows a consistent structure using the `professional_journal_template.md`. Each journal entry includes:
+Every `.md` file in this folder follows a structured and professional format based on the `professional_journal_template.md`. This ensures clarity, consistency, and a high level of academic presentation across the journal.
 
-* 🧠 **Metadata Block**: Course, institution, documented session, week, class, and topic.
-* ✳️ **Class Summary**: A comprehensive breakdown of the key learnings and flow of the session.
-* 🔶 **Core Concepts Covered**: Definitions, use cases, diagrams, comparisons.
-* 🧪 **Tools and Exercises**: All platforms, files, scripts, and practical work done.
-* 🧭 **Reflections and Takeaways**: Strategic insights and learning consolidation.
-* ✅ **Achievements Checklist**: Key tasks and milestones completed.
-* 📎 **Attached Files and References**: Official class material and structured assets.
+| Section                    | Description                                                        |
+| -------------------------- | ------------------------------------------------------------------ |
+| 🧠 Metadata Block          | Contains course info, session number, date, and main topic.        |
+| ✳️ Class Summary           | In-depth overview of what was taught, in what order, and how.      |
+| 🔶 Core Concepts Covered   | Key definitions, diagrams, and contextualized use cases.           |
+| 🧪 Tools and Exercises     | Practical hands-on tasks, software used, scripts and results.      |
+| 🛁 Reflections & Takeaways | Personal insights, discoveries, or reinforced skills.              |
+| ✅ Achievements Checklist   | Confirmation of completed goals during the session.                |
+| 📌 Attached Files          | PDFs, Excel sheets, databases, scripts or resources used in class. |
 
-All documents prioritize clarity, structure, and professional-level delivery.
+All entries are written in English using academic and technical tone, with Markdown formatting standards ready for GitHub Pages or export.
 
 ---
 
@@ -33,24 +35,24 @@ All documents prioritize clarity, structure, and professional-level delivery.
 
 ### 🧩 Introduction to Databases Module (10 Classes)
 
-| #  | Date       | Class Title                                                   |
-| -- | ---------- | ------------------------------------------------------------- |
-| 1  | 2025-05-20 | SQL Fundamentals and DBMS Introduction                        |
-| 2  | 2025-05-23 | SQL Grouping, Aggregation, Pattern Matching and Subqueries    |
-| 3  | 2025-05-27 | SQL Joins and Views in MySQL Workbench                        |
-| 4  | 2025-05-29 | Local DB Configuration and ER Modeling                        |
-| 5  | 2025-06-03 | Fundamentals of MongoDB, JSON Importation and CRUD Operations |
-| 6 | 2025-06-05 | Advanced Filtering and JSON Operations in MongoDB              |
-| 7 | TBD        | Aggregation Pipelines and Indexing in MongoDB                  |
-| 8 | TBD        | Relational vs. NoSQL Comparative Exercises                     |
-| 9 | TBD        | Final Project – From Schema to Queries in Practice             |
-| 10 | TBD        | Capstone Review and Applied Integration                       |
+| #  | Date       | Class Title                                                     |
+| -- | ---------- | --------------------------------------------------------------- |
+| 1  | 2025-05-20 | SQL Fundamentals and DBMS Introduction                          |
+| 2  | 2025-05-23 | SQL Grouping, Aggregation, Pattern Matching and Subqueries      |
+| 3  | 2025-05-27 | SQL Joins and Views in MySQL Workbench                          |
+| 4  | 2025-05-29 | Local DB Configuration and ER Modeling                          |
+| 5  | 2025-06-03 | Fundamentals of MongoDB, JSON Importation and CRUD Operations   |
+| 6  | 2025-06-05 | Advanced Filtering and JSON Operations in MongoDB               |
+| 7  | 2025-06-10 | Aggregation Pipelines and Read-Only Views                       |
+| 8  | 2025-06-12 | DBaaS Fundamentals, MongoDB Atlas Setup & External Data Import  |
+| 9  | 2025-06-17 | Final Project – End-to-End MySQL Database Design for TaconMadre |
+| 10 | 2025-06-19 | Final Project Submission & Comprehensive Feedback Analysis      |
 
 ---
 
 ## 📄 Documented Sessions
 
-### 🎯 Induction Module
+### 🎯 Induction Module (Classes 01–04)
 
 | # | Date       | Topic                                        | File Link                                                  |
 | - | ---------- | -------------------------------------------- | ---------------------------------------------------------- |
@@ -59,16 +61,28 @@ All documents prioritize clarity, structure, and professional-level delivery.
 | 3 | 2025-05-08 | Machine Learning, Probability & Statistics   | [Class 03](./2025-05-08_Data_Analysis_Bootcamp_Class03.md) |
 | 4 | 2025-05-13 | Final Session – Induction Module Integration | [Class 04](./2025-05-13_Data_Analysis_Bootcamp_Class04.md) |
 
-### 🧩 Introduction to Databases Module
+### 🧩 Introduction to Databases Module (Classes 01–10)
 
-| #  | Date       | Topic                                                         | File Link                                                  |
-| -- | ---------- | ------------------------------------------------------------- | ---------------------------------------------------------- |
-| 5  | 2025-05-20 | SQL Fundamentals and DBMS Introduction                        | [Class 05](./2025-05-20_Data_Analysis_Bootcamp_Class05.md) |
-| 6  | 2025-05-23 | SQL Grouping, Aggregation, Pattern Matching and Subqueries    | [Class 06](./2025-05-23_Data_Analysis_Bootcamp_Class06.md) |
-| 7  | 2025-05-27 | SQL Joins and Views in MySQL Workbench                        | [Class 07](./2025-05-27_Data_Analysis_Bootcamp_Class07.md) |
-| 8  | 2025-05-29 | Local DB Configuration and ER Modeling                        | [Class 08](./2025-05-29_Data_Analysis_Bootcamp_Class08.md) |
-| 9  | 2025-06-03 | Fundamentals of MongoDB, JSON Importation and CRUD Operations | [Class 09](./2025-06-03_Data_Analysis_Bootcamp_Class09.md) |
-| 10 | 2025-06-05 | Advanced Filtering and JSON Operations in MongoDB             | [Class 10](./2025-06-05_Data_Analysis_Bootcamp_Class10.md) |
+| #  | Date       | Topic                                                           | File Link                                                  |
+| -- | ---------- | --------------------------------------------------------------- | ---------------------------------------------------------- |
+| 1  | 2025-05-20 | SQL Fundamentals and DBMS Introduction                          | [Class 01](./2025-05-20_Data_Analysis_Bootcamp_Class05.md) |
+| 2  | 2025-05-23 | SQL Grouping, Aggregation, Pattern Matching and Subqueries      | [Class 02](./2025-05-23_Data_Analysis_Bootcamp_Class06.md) |
+| 3  | 2025-05-27 | SQL Joins and Views in MySQL Workbench                          | [Class 03](./2025-05-27_Data_Analysis_Bootcamp_Class07.md) |
+| 4  | 2025-05-29 | Local DB Configuration and ER Modeling                          | [Class 04](./2025-05-29_Data_Analysis_Bootcamp_Class08.md) |
+| 5  | 2025-06-03 | Fundamentals of MongoDB, JSON Importation and CRUD Operations   | [Class 05](./2025-06-03_Data_Analysis_Bootcamp_Class09.md) |
+| 6  | 2025-06-05 | Advanced Filtering and JSON Operations in MongoDB               | [Class 06](./2025-06-05_Data_Analysis_Bootcamp_Class10.md) |
+| 7  | 2025-06-10 | Aggregation Pipelines and Read-Only Views                       | [Class 07](./2025-06-10_Data_Analysis_Bootcamp_Class11.md) |
+| 8  | 2025-06-12 | DBaaS Fundamentals, MongoDB Atlas Setup & External Data Import  | [Class 08](./2025-06-12_Data_Analysis_Bootcamp_Class12.md) |
+| 9  | 2025-06-17 | Final Project – End-to-End MySQL Database Design for TaconMadre | [Class 09](./2025-06-17_Data_Analysis_Bootcamp_Class13.md) |
+| 10 | 2025-06-19 | Final Project Submission & Comprehensive Feedback Analysis      | [Class 10](./2025-06-19_Data_Analysis_Bootcamp_Class14.md) |
+
+---
+
+### 🛠️ Class Projects
+
+| Project Title               | File Link                                             |
+| --------------------------- | ----------------------------------------------------- |
+| TaconMadre Database Project | [TaconMadre Project](../project-taconmadre/README.md) |
 
 ---
 
@@ -91,18 +105,18 @@ Future milestones and certifications will be added as progress continues through
 
 ## 🧠 Author’s Note
 
-This repository is authored and maintained by **Abner Soberón Martínez**, a self-driven learner and aspiring **AI & Machine Learning Engineer**, preparing a strong academic and technical portfolio toward applying to **MIT** or **Harvard**.
+This journal is authored and maintained by **Abner Soberón Martínez**, a determined self-learner and aspiring **AI & Machine Learning Engineer**. This journal reflects a methodical pursuit of excellence, deep commitment to intellectual growth, and unwavering discipline.
 
-The journal reflects a commitment to intellectual excellence, learning discipline, and technical mastery over time.
+It is part of a long-term personal and academic strategy, aiming for admission to top-tier institutions like **MIT** or **Harvard**.
 
 ---
 
 ## 🔒 Disclaimer
 
-All class content, images, and attached materials referenced within each journal entry are the intellectual property of the course instructor or Skilling Center TecMilenio, shared here solely for academic progress tracking. No redistribution is permitted.
+All referenced content, assets, and class materials remain the property of their respective authors or institutions. This journal is a personal academic log and is not intended for redistribution.
 
 ---
 
 ## ✍️ Last Updated
 
-June 6, 2025
+June 7, 2025
