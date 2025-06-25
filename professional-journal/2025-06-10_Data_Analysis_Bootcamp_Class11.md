@@ -1,12 +1,12 @@
 🧠 Technical-Personal Journal
 
-**Course:** Introduction to Databases
-**Institution:** Skilling Center TecMilenio
-**Start Date:** 2025-04-29
-**Documented Session:** 2025-06-10
-**Week:** 8
-**Class:** 7 of 10 (Databases Module)
-**Topic:** Aggregation Pipelines and Read-Only Views
+**Course:** Introduction to Databases  
+**Institution:** Skilling Center TecMilenio  
+**Start Date:** 2025-04-29  
+**Documented Session:** 2025-06-10  
+**Week:** 8  
+**Class:** 7 of 10 (Databases Module)  
+**Topic:** Aggregation Pipelines and Read-Only Views  
 
 ---
 
